@@ -1,0 +1,22 @@
+WEBVTT
+
+1
+00:00:04.357 --> 00:00:10.933
+Once a customer replies, automated reminders should stop. Here's how this workflow makes that happen.
+
+2
+00:00:14.669 --> 00:00:21.197
+A new enquiry creates one contact and one follow-up, ready for the team to handle.
+
+3
+00:00:25.324 --> 00:00:32.788
+When a reply arrives, the contact is marked as replied. Every later reminder checks that status.
+
+4
+00:00:36.724 --> 00:00:43.732
+A second form doesn't erase the reply. The next reminder is blocked, keeping the conversation natural.
+
+5
+00:00:48.250 --> 00:00:55.642
+This is a working demo with sample data. I'd connect your systems and test the actual send-and-stop behaviour.
+
