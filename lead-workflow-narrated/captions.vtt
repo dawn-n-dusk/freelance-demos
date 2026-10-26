@@ -1,34 +1,33 @@
 WEBVTT
 
 1
-00:00:01.331 --> 00:00:06.971
+00:00:00.400 --> 00:00:06.040
 This workflow captures new enquiries and stops reminders when a customer replies.
 
 2
-00:00:08.515 --> 00:00:13.675
+00:00:07.340 --> 00:00:12.500
 It checks the enquiry, saves the contact, and notifies the right person.
 
 3
-00:00:15.705 --> 00:00:22.833
+00:00:14.340 --> 00:00:21.468
 If the same event arrives twice, its work happens once, avoiding duplicate records and messages.
 
 4
-00:00:24.319 --> 00:00:30.559
+00:00:22.768 --> 00:00:29.008
 A customer reply is preserved, even after another form submission, so the next reminder is blocked.
 
 5
-00:00:32.488 --> 00:00:37.792
+00:00:30.768 --> 00:00:36.072
 For a temporary rate limit, the demo calculates a wait before a limited retry.
 
 6
-00:00:39.804 --> 00:00:46.476
+00:00:37.768 --> 00:00:44.440
 Expired access stops the workflow for review. It doesn't keep retrying the same failure.
 
 7
-00:00:49.132 --> 00:00:54.316
+00:00:45.740 --> 00:00:50.924
 If a write may have succeeded, check the remote record before repeating it.
 
 8
-00:00:56.321 --> 00:01:03.833
+00:00:52.740 --> 00:01:00.252
 These are simulated integrations. I'd connect your systems and verify real delivery, recovery, and stopping.
-
