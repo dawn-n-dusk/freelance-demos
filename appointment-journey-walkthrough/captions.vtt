@@ -1,0 +1,37 @@
+WEBVTT
+
+1
+00:00:00.522 --> 00:00:08.117
+Here is a simple booking journey: choose a service and time, enter your details, then see a clear confirmation.
+
+2
+00:00:11.008 --> 00:00:14.690
+The visitor chooses an appointment type and an available slot.
+
+3
+00:00:15.139 --> 00:00:19.541
+The unavailable time is disabled, making the next step clear.
+
+4
+00:00:22.008 --> 00:00:26.342
+When the timezone changes, the selected time stays consistent.
+
+5
+00:00:26.777 --> 00:00:31.628
+Ten in London becomes six in the evening in Hong Kong, with the timezone shown.
+
+6
+00:00:33.995 --> 00:00:40.897
+The visitor adds their details, and the confirmation keeps the service, time and reference together.
+
+7
+00:00:41.332 --> 00:00:44.334
+Going back also preserves the chosen slot.
+
+8
+00:00:46.123 --> 00:00:54.058
+For your Acuity setup, I would review team availability and booking rules, then test confirmations and rescheduling.
+
+9
+00:00:54.493 --> 00:00:57.251
+This custom prototype uses synthetic data.

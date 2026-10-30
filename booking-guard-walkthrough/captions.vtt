@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:00.522 --> 00:00:02.492
+Here is a customer asking for an appointment.
+
+2
+00:00:02.927 --> 00:00:07.451
+The workflow checks the request and calendar before it confirms anything.
+
+3
+00:00:11.008 --> 00:00:18.821
+When the time is available, the demo creates one booking and returns its reference, so the customer knows it is confirmed.
+
+4
+00:00:22.008 --> 00:00:28.272
+If the same request arrives again, it returns the existing reference instead of booking twice.
+
+5
+00:00:28.734 --> 00:00:30.242
+The booking count stays at one.
+
+6
+00:00:33.508 --> 00:00:40.940
+If the calendar is unavailable, it clearly says the appointment is not confirmed and leaves the request for follow-up.
+
+7
+00:00:44.063 --> 00:00:49.715
+For your setup, I would connect the enquiry channel, Claude and calendar through n eight n.
+
+8
+00:00:50.163 --> 00:00:55.068
+This tested prototype uses sample data and simulated integrations.
